@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Figmentra.Api/Figmentra.Api.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Figmentra.Tests/Figmentra.Tests.csproj" />
+  </Folder>
+</Solution>
